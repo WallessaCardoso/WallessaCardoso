@@ -1,5 +1,4 @@
-<h2> Hi, I'm Wallessa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<h2> Hi, How r u? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 > Turning coffee ☕ into code. Dreaming in algorithms and crafting digital solutions💡.
  > 
